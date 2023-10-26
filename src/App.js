@@ -1,23 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Header2 from "./Components/Header2";
+import SideDiv from "./Components/SideDiv";
+import Heading from "./Components/Heading";
+import Imagediv from "./Components/Image-div";
+import Silder from "./Components/Silder";
+import Cardpart from "./Components/Cardpart";
+import Cardpart2 from "./Components/Cardpart2";
+import LocalStatePart from "./Components/LocalStatePart";
+import NPRnews from "./Components/NPRnews";
+import Footer from "./Components/Footer";
+
+// import data from "./data.js";
 
 function App() {
+  // console.log("data", data.posts);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header2 />
+      <Heading />
+      <SideDiv />
+      <Imagediv />
+      <Silder />
+      <Cardpart />
+      <Cardpart2 />
+      <LocalStatePart />
+      <NPRnews />
+      <Footer />
     </div>
   );
 }

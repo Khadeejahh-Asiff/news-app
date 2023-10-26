@@ -1,0 +1,42 @@
+.navbar {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 100;
+}
+
+.nav-link {
+  text-align: center;
+}
+
+a {
+  box-shadow: rgb(93, 91, 91);
+}
+/* .nav-link:hover {
+  background-color: lightseagreen;
+  color: white;
+  text-decoration: none;
+} */
+
+.dropdown-menu {
+  background-color: black;
+  min-width: 210px;
+}
+
+.dropdown-item {
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dropdown-item:hover {
+  background-color: lightseagreen;
+  color: black;
+}
+
+.dropdown-divider {
+  border-color: #ccc;
+}
+
+.navbar-nav {
+  margin-left: 120px;
+}

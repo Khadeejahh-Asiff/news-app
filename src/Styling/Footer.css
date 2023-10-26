@@ -1,0 +1,141 @@
+.main-main-footer {
+  margin-top: 20px;
+  height: 560px;
+  background-color: black;
+}
+
+.head1 {
+  margin-left: 20px;
+  padding-top: 20px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 40px;
+  margin: 0;
+}
+
+.heading-again {
+  padding-top: 15px;
+  padding-right: 10px;
+}
+
+.para {
+  padding-right: 130px;
+  padding-left: 0px;
+  font-size: 25px;
+  margin-top: 20px;
+}
+/* .links {
+  justify-content: flex-start;
+} */
+li {
+  text-align: start;
+  padding-top: 5px;
+}
+.list-link {
+  color: white;
+  padding-top: 10px;
+}
+.first-links {
+  text-align: start;
+  list-style: none;
+}
+.list-link {
+  text-decoration: none;
+  font-size: 22px;
+  text-align: start;
+}
+
+.list-link:hover {
+  color: lightseagreen;
+}
+
+.Second-links {
+  text-align: start;
+}
+
+.Third-links {
+  text-align: start;
+}
+
+.logo-one {
+  justify-content: start;
+  margin-top: 50px;
+}
+
+.svg-parts {
+  padding-top: 41px;
+}
+.svg-link1 {
+  margin-left: 30px;
+}
+
+.logo-two {
+  margin-left: 20px;
+  margin-top: 35px;
+}
+
+.form {
+  margin-left: 120px;
+  margin-top: 40px;
+}
+
+.label1 {
+  font-size: 22px;
+  padding-right: 200px;
+}
+
+.label2 {
+  font-size: 22px;
+  padding-right: 250px;
+}
+
+#E {
+  width: 350px;
+  height: 40px;
+  margin-right: 30px;
+  margin-top: 15px;
+}
+
+#pass {
+  width: 350px;
+  height: 40px;
+  margin-right: 100px;
+  margin-top: 15px;
+  margin-left: 0;
+}
+.sign-up-button {
+  margin-top: 20px;
+}
+.btn1 {
+  width: 735px;
+  height: 50px;
+  background-color: black;
+  margin-right: 80px;
+  outline-color: white;
+  border-color: white;
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn1:hover {
+  background-color: white;
+  border-color: black;
+  color: black;
+}
+
+.content-of-footer {
+  margin-left: 40px;
+  margin-top: 10px;
+}
+
+.para2 {
+  text-align: center;
+  padding: 1rem;
+  font-size: 20px;
+  padding-left: 2rem;
+  padding-right: 3rem;
+}

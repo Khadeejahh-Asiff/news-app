@@ -1,0 +1,29 @@
+.slick-slide {
+  text-align: center;
+}
+
+.slick-dots {
+  text-align: center;
+  position: absolute;
+  top: 70px;
+}
+
+/* .slick-prev,
+.slick-next {
+  display: none;
+} */
+
+/* .slick-prev:hover,
+.slick-next:hover {
+  background: #0056b3;
+} */
+
+Slider {
+  background-color: black;
+}
+
+.nav-link:hover {
+  background-color: lightseagreen;
+  color: white;
+  text-decoration: none;
+}
